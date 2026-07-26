@@ -67,11 +67,11 @@ The goal was to build a real-world automation solution that interacts with an Io
 
 ---
 
-# 📝Requierments
+# 📝Requirements
 
-## 1. Open requirements.txt
-## 2. Download requirements
-## 3. Start file
+- 1. Open requirements.txt
+- 2. Download requirements
+- 3. Start file
 
 --- 
 

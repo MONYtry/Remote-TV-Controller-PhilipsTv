@@ -60,11 +60,55 @@ The goal was to build a real-world automation solution that interacts with an Io
 
 ---
 
-# 📂 Project Structure
-Philips-TV-Controller
-|
-|-- smarthome.py # Main application logic
-|-- Config.env.example # Example configuration
-|-- .gitignore # Protected files
-|-- requirements.txt # Python dependencies
- - README.md # Documentation`
+# ⚙️ Installation
+
+## 1. Clone Repository
+- `git clone https://github.com/USERNAME/Philips-TV-Controller.git`
+
+---
+
+# 📝Requierments
+
+## 1. Open requirements.txt
+## 2. Download requirements
+## 3. Start file
+
+--- 
+
+# 🔐 Security
+
+Security was considered during development.
+
+Sensitive information is stored separately from the source code:
+
+- `✅ Authentication tokens`
+- `✅ Device credentials`
+- `✅ Local network information`
+
+Environment variables are used to prevent accidental exposure of private data.
+
+
+--- 
+
+# 🧠 Skills & Experience
+Through this project I improved my knowledge in:
+
+- `Python software development`
+ `IoT systems`
+- `Network communication`
+- `API usage`
+- `Secure programming practices`
+- `Git and GitHub workflow`
+
+--- 
+
+# 👨‍💻 Author
+
+Created by MONYtry
+
+## About Me 
+- `Python development`
+- `Networking`
+- `Cybersecurity`
+- `Smart Home systems`
+- `Automation`

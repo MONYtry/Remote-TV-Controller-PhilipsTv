@@ -62,9 +62,9 @@ The goal was to build a real-world automation solution that interacts with an Io
 
 # 📂 Project Structure
 `Philips-TV-Controller/`
-`│`
-`├── smarthome.py # Main application logic`
-`├── Config.env.example # Example configuration`
-`├── .gitignore # Protected files`
-`├── requirements.txt # Python dependencies`
-`└── README.md # Documentation`
+`│
+├── smarthome.py # Main application logic
+├── Config.env.example # Example configuration
+├── .gitignore # Protected files
+├── requirements.txt # Python dependencies
+└── README.md # Documentation`
